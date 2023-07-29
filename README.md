@@ -1,4 +1,4 @@
-
+### Hi there 👋
 
 <!--
 **hyunjin0915/hyunjin0915** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Hi there 👋&fontSize=50&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=:stuck_out_tongue_winking_eye:Hi There:stuck_out_tongue_winking_eye:&fontSize=50&animation=twinkling" />
 
 <div align=center>
   <h3>🥐 Tech Stack 🥐</h3>
