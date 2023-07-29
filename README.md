@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=HElL0WorLd&fontSize=50&animation=twinkling" />
 
 <div align=center>
-  <h1>🥐 Tech Stack 🥐</h1>
+  <h3>🥐 Tech Stack 🥐</h3>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=white" />
