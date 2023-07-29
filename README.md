@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=:stuck_out_tongue_winking_eye:Hi There:stuck_out_tongue_winking_eye:&fontSize=50&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Hi There&fontSize=50&animation=twinkling" />
 
 <div align=center>
   <h3>🥐 Tech Stack 🥐</h3>
@@ -29,11 +29,9 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white" />
 	<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" />
 	<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=Android%20Studio&logoColor=white" />
-	
-
 </div>
 
-
+<br> </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunjin0915)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
