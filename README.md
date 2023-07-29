@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=HElL0WorLd&fontSize=50&animation=twinkling" />
 
-<div align="center>
-  <h3>🥐 Tech Stack 🥐</h3>
+<div align=center>
+  <h1>🥐 Tech Stack 🥐</h1>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=white" />
@@ -28,3 +28,5 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunjin0915)](https://github.com/anuraghazra/github-readme-stats)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
