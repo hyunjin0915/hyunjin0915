@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Hell0WorLd&fontSize=40&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=HElL0WorLd&fontSize=50&animation=twinkling" />
 
 <div align="center>
-  <h3> Tech Stack </h3>
+  <h3>🥐 Tech Stack 🥐</h3>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=white" />
