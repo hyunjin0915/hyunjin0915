@@ -16,3 +16,15 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Hell0WorLd&fontSize=40&animation=twinkling" />
+
+<div align="center>
+  <h3> Tech Stack </h3>
+</div>
+<div align="center">
+	<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=white" />
+	<img src="https://img.shields.io/badge/cplusplus-00599C?style=flat&logo=cplusplus&logoColor=white" />
+	<img src="https://img.shields.io/badge/visualstudio-5C2D91?style=flat&logo=visualstudio&logoColor=white" />
+</div>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunjin0915)](https://github.com/anuraghazra/github-readme-stats)
