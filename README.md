@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Hi There&fontSize=50&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=HelloWorld&fontSize=50&animation=twinkling" />
 
 <div align=center>
   <h3>🥐 Tech Stack 🥐</h3>
