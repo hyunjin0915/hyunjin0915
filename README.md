@@ -1,48 +1,67 @@
-<pre style="background:#000; color:#0f0; padding:20px; font-family: 'Courier New', monospace; line-height:1.1;">
-╔══════════════════════════════════════════════╗
-║  HYUNJIN GitHub Console Loaded..             ║
-╚══════════════════════════════════════════════╝
+<div align="center">
+
+<pre>
+╔══════════════════════════════════════════════════╗
+║                                                  ║
+║  ██╗  ██╗██╗   ██╗███╗   ██╗     ██╗██╗███╗   ██╗║
+║  ██║  ██║╚██╗ ██╔╝████╗  ██║     ██║██║████╗  ██║║
+║  ███████║ ╚████╔╝ ██╔██╗ ██║     ██║██║██╔██╗ ██║║
+║  ██╔══██║  ╚██╔╝  ██║╚██╗██║██   ██║██║██║╚██╗██║║
+║  ██║  ██║   ██║   ██║ ╚████║╚█████╔╝██║██║ ╚████║║
+║  ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═══╝ ╚════╝ ╚═╝╚═╝  ╚═══╝║
+║                                                  ║
+║           [ UNITY CLIENT DEVELOPER ]             ║
+║                                                  ║
+║                  /\       /\                    ║
+║                 /  \_____/  \                   ║
+║                /             \                  ║
+║               |   ▄▄▄   ▄▄▄   |                 ║
+║               |  █ ● █ █ ● █  |                 ║
+║               |   ▀▀▀   ▀▀▀   |                 ║
+║                \   \_____/   /                  ║
+║                 \___________/                   ║
+║                    /|   |\                      ║
+║                   /_|___|_\                     ║
+║                                                  ║
+║          > PRESS START TO BUILD GAMES            ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
 </pre>
 
-<p >
-  <img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&pause=1000&color=00FF00&size=24&width=500&height=60&lines=Unity+Client+Dev;C%23+%26+C%2B%2B;" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=18&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=450&height=40&lines=Creating+Games...;Optimizing+Performance...;Building+Something+New..." />
 
+</div>
 
----
+## 👾 About Me
 
-## 🛠️ Tech Stack
+Unity Client Developer passionate about game development and building better development workflows.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&labelColor=000000&logoColor=00FF00" alt="Unity" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&labelColor=000000&logoColor=00FF00" alt="C#" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&labelColor=000000&logoColor=00FF00" alt="C++" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&labelColor=000000&logoColor=00FF00" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&labelColor=000000&logoColor=00FF00" alt="Visual Studio" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&labelColor=000000&logoColor=00FF00" alt="VS Code" />
-</p>
+- Unity-based game development and client programming
+- Game logic, UI implementation, and performance optimization
+- AI-powered development and workflow automation
 
----
+## 💻 Experience
 
+**Supercent** · Unity Client Developer  
+`2025.10 – Present`
+
+*AD-Dev Team*
+
+- Develop playable ad games using Unity and C#.
+- Handle the entire development process, from initial implementation to game logic, UI, optimization, builds, and QA.
+- Optimize performance and resource usage for WebGL and resource-constrained environments.
+- Develop AI-powered tools and automation to improve development efficiency.
 
 ## 🚀 Featured Projects
 
-```bash
-> ./launch Gwangpibara_Server
-  • ASP.NET Core · EF Core · MySQL · AWS EC2/RDS · Json.Net
+**01. Gwangpibara_Server**
 
-> ./launch MarioParty_Clone
-  • Unity3D · C# · Netcode for GameObjects
+`ASP.NET Core` `EF Core` `MySQL` `AWS EC2/RDS` `Json.Net`
 
-> ./launch Eclipse
-  • Unity3D · C# · TCP Socket Auth Server · MySQL · Json.Net
-```
----
+A server application built with ASP.NET Core, featuring database integration and server-side functionality.
 
-## 🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=hyunjin0915&theme=dracula&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies"/> </p>
+**02. MarioParty_Clone**
 
----
+`Unity` `C#` `Netcode for GameObjects`
 
-## 📊 GitHub Stats
-<p align="center"> <a href="https://github.com/hyunjin0915/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunjin0915&layout=compact&theme=dark&hide_border=true&bg_color=000000&text_color=00FF00" alt="Top Languages" /> </a> <a href="https://github.com/hyunjin0915/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=hyunjin0915&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=000000&text_color=00FF00" alt="GitHub Stats" /> </a> </p>
+A multiplayer party game inspired by Mario Party, featuring real-time multiplayer gameplay with Unity Netcode for GameObjects.
